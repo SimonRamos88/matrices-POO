@@ -1,6 +1,6 @@
 # matrices-POO
 
-Tarea 1 de la materia POO 
+Tarea 1 de la materia POO. El proyecto ha sido realizado en intellij idea
 
 ENUNCIADO: 
 Una cooperativa vende cervezas artesanales y café que organiza de la siguiente manera: Las cervezas se empacan en una caja cuadrada que puede ser modelada
